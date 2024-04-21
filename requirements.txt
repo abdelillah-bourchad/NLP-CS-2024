@@ -1,0 +1,10 @@
+transformers
+peft
+os
+torch
+wandb   
+platform
+warnings
+datasets
+trl
+huggingface_hub
