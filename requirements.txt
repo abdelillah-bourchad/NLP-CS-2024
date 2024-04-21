@@ -1,10 +1,14 @@
 transformers
 peft
 os
+csv
 torch
 wandb   
 platform
 warnings
 datasets
+random
 trl
 huggingface_hub
+json
+sklearn
